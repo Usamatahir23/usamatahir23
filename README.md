@@ -38,7 +38,7 @@ $ contact --info
 
 $ fortune | cowsay
  ________________________________________
-/ Let's build some distributed systems! \
+/ Let's build systems! \
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
